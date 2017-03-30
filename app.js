@@ -20,7 +20,9 @@ app.get('/:ph/:text/:sec', function (req, res) {
         }, function(err, message) { 
             console.log("Message Sent"); 
         });
-    }    
+    }
+
+    res.send("Done");    
 
 })
 
