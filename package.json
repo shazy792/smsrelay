@@ -1,0 +1,20 @@
+{
+  "name": "smsrelay",
+  "version": "1.0.0",
+  "description": "sms relay to send sms to number using the twilio api",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shazy792/smsrelay.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shazy792/smsrelay/issues"
+  },
+  "homepage": "https://github.com/shazy792/smsrelay#readme"
+}
